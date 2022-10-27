@@ -1,5 +1,5 @@
 ---
-name: Feature Issue
+name: Feature
 about: 追加するべき機能
 title: ''
 labels: Feature
