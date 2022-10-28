@@ -1,0 +1,36 @@
+.bg{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(../../images/login-dog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 100% 75%;
+    filter: grayscale(80%);
+}
+
+.contents{
+    position: absolute;
+    top: 185px;
+    right: 12.5%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title{
+    font-size: 500%;
+    color: #cfcfcf;
+    text-shadow: 3px 3px 3px rgba(0, 200, 255, .3);
+}
+
+.login-btn{
+    margin-top: 65%;
+    font-size: 250%;
+    text-decoration: none;
+    color: #ffffff;
+}
+.login-btn:hover{
+    border-bottom: 1px solid #ffffff;
+}

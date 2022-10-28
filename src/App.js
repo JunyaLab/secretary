@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Top from "./ui/Top";
 import Memo from "./ui/Memo";
-import Login from "./ui/Login";
+import Login from "./ui/Login/Login";
 
 const App = () => {
   return (
