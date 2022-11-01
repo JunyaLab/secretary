@@ -1,9 +1,4 @@
-.bg{
-    background-color: #000000;
-    position: relative;
-    height: 100vh;
-    width: 100vw;
-}
+
 
 .contents{
     display: flex;
@@ -12,8 +7,17 @@
 }
 
 .new-task-name{
-    margin: 10% 0;
-    width: 40vw;
+    margin-top: 10%;
+    padding: 0 5%;
+    width: 30vw;
+    height: 8vh;
+    font-size: 150%;
+}
+
+.new-task-limit{
+    margin: 5% 0;
+    padding: 0 5%;
+    width: 30vw;
     height: 8vh;
     font-size: 150%;
 }

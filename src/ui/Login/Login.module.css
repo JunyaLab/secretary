@@ -21,8 +21,8 @@
 
 .title{
     font-size: 500%;
-    color: #cfcfcf;
-    text-shadow: 3px 3px 3px rgba(0, 200, 255, .3);
+    color: #bbffff;
+    text-shadow: 3px 3px 3px #000000;
 }
 
 .login-btn{

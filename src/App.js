@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Login from "./ui/Login/Login";
-import Top from "./ui/Top";
+import Top from "./ui//Top/Top";
 import TaskManagement from "./ui/TaskManagement/TaskManagement";
-import Memo from "./ui/Memo";
+import Memo from "./ui/Memo/Memo";
 
 const App = () => {
   return (
