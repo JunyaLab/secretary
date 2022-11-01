@@ -1,0 +1,19 @@
+.bg{
+    background-color: #000000;
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+.contents{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.new-task-name{
+    margin: 10% 0;
+    width: 40vw;
+    height: 8vh;
+    font-size: 150%;
+}
