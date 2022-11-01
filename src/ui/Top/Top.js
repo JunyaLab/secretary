@@ -10,6 +10,9 @@ const Top = () => {
       <div>
         <Link to={`/memo/`}>Memoへ</Link>
       </div>
+      <div>
+        <Link to={`/task/`}>タスク管理</Link>
+      </div>
     </>
   );
 };

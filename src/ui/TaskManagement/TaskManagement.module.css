@@ -1,0 +1,23 @@
+
+
+.contents{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.new-task-name{
+    margin-top: 10%;
+    padding: 0 5%;
+    width: 30vw;
+    height: 8vh;
+    font-size: 150%;
+}
+
+.new-task-limit{
+    margin: 5% 0;
+    padding: 0 5%;
+    width: 30vw;
+    height: 8vh;
+    font-size: 150%;
+}
