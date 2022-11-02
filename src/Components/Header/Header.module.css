@@ -1,0 +1,18 @@
+.header{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(200,250,255,.75);
+}
+
+.header-contents{
+    color: #000000;
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.title{
+    font-size: 200%;
+}

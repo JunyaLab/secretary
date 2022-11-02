@@ -1,8 +1,10 @@
 import { Link } from "react-router-dom";
+import Header from "../../Components/Header/Header";
 
 const Top = () => {
   return (
     <>
+      <Header />
       <h1>Top</h1>
       <div>
         <Link to={`/`}>Loginへ</Link>
