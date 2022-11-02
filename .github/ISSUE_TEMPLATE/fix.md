@@ -2,7 +2,7 @@
 name: Fix
 about: 修正の必要なところ
 title: ''
-labels: ''
+labels: Fix
 assignees: JunyaLab
 
 ---
