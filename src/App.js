@@ -6,7 +6,7 @@ import Memo from "./ui/Memo/Memo";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/secretary'>
       <Routes>
         <Route path={`/`} element={<Login />} />
         <Route path={`/top/`} element={<Top />} />
