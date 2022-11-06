@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/secretary/static/css/main.e126a0e4.css",
+    "main.js": "/secretary/static/js/main.bfbaf761.js",
+    "static/js/787.3a79bc51.chunk.js": "/secretary/static/js/787.3a79bc51.chunk.js",
+    "static/media/login-dog.jpg": "/secretary/static/media/login-dog.f453ed0994168d72a43a.jpg",
+    "index.html": "/secretary/index.html",
+    "main.e126a0e4.css.map": "/secretary/static/css/main.e126a0e4.css.map",
+    "main.bfbaf761.js.map": "/secretary/static/js/main.bfbaf761.js.map",
+    "787.3a79bc51.chunk.js.map": "/secretary/static/js/787.3a79bc51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e126a0e4.css",
+    "static/js/main.bfbaf761.js"
+  ]
+}
